@@ -74,6 +74,10 @@ section {
     gap: 20px;
 }
 
+.ingredientes ul {
+    padding-left: 40px;
+}
+
 footer{
     height: 200px;
     background-color: black;
